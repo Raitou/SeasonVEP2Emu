@@ -1,0 +1,4 @@
+C:\Users\HIRO\AppData\Local\Temporary Projects\Server\bin\Debug\CenterServer.exe
+C:\Users\HIRO\AppData\Local\Temporary Projects\Server\bin\Debug\CenterServer.pdb
+C:\Users\HIRO\AppData\Local\Temporary Projects\Server\obj\x86\Debug\CenterServer.exe
+C:\Users\HIRO\AppData\Local\Temporary Projects\Server\obj\x86\Debug\CenterServer.pdb

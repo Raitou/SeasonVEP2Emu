@@ -1,0 +1,23 @@
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Common\bin\Release\libcomservice.dll
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Common\bin\Release\libcomservice.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Common\obj\Release\libcomservice.dll
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Common\obj\Release\libcomservice.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Common\bin\Release\zlib.dll
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Bin\libcomservice.dll
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Bin\libcomservice.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\CenterServer\Bin\libcomservice.dll
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\CenterServer\Bin\libcomservice.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\CenterServer\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\CenterServer\Common\obj\Release\libcomservice.dll
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\CenterServer\Common\obj\Release\libcomservice.pdb
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\CenterServer\Bin\libcomservice.dll
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\CenterServer\Bin\libcomservice.pdb
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\CenterServer\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\CenterServer\Common\obj\Release\libcomservice.dll
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\CenterServer\Common\obj\Release\libcomservice.pdb
+C:\Users\HIRO\Desktop\CenterServer\Bin\libcomservice.dll
+C:\Users\HIRO\Desktop\CenterServer\Bin\libcomservice.pdb
+C:\Users\HIRO\Desktop\CenterServer\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\HIRO\Desktop\CenterServer\Common\obj\Release\libcomservice.dll
+C:\Users\HIRO\Desktop\CenterServer\Common\obj\Release\libcomservice.pdb

@@ -1,0 +1,7 @@
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Common\bin\Debug\libcomservice.dll
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Common\bin\Debug\libcomservice.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Common\obj\Debug\libcomservice.dll
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Common\obj\Debug\libcomservice.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Common\bin\Debug\Zlib.dll
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Common\bin\Debug\MySQL.Data.dll

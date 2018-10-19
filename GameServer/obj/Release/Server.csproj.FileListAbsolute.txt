@@ -1,0 +1,5 @@
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\CenterServer\Bin\libcomservice.dll
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\CenterServer\Bin\libcomservice.pdb
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\CenterServer\Server\obj\Release\libcomservice.dll
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\CenterServer\Server\obj\Release\libcomservice.pdb
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\CenterServer\Server\obj\Release\Server.csprojResolveAssemblyReference.cache

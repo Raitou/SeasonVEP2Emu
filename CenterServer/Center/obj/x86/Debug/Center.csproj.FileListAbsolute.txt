@@ -1,0 +1,34 @@
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\bin\Debug\Center.exe
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\bin\Debug\Center.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\obj\x86\Debug\Center.exe
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\obj\x86\Debug\Center.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\obj\x86\Debug\Center.csprojResolveAssemblyReference.cache
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\bin\Debug\libcomservice.dll
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\bin\Debug\libcomservice.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\bin\Debug\Zlib.dll
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\bin\Debug\MySql.Data.dll
+C:\Users\HIRO\Minhas Ferramentas\Action\centerServer\Center\obj\x86\Debug\CenterServer.exe
+C:\Users\HIRO\Minhas Ferramentas\Action\centerServer\Center\obj\x86\Debug\CenterServer.pdb
+C:\Users\HIRO\Minhas Ferramentas\Action\centerServer\Center\bin\Debug\CenterServer.exe
+C:\Users\HIRO\Minhas Ferramentas\Action\centerServer\Center\bin\Debug\CenterServer.pdb
+C:\Users\HIRO\Minhas Ferramentas\Action\centerServer\Center\bin\Debug\libcomservice.dll
+C:\Users\HIRO\Minhas Ferramentas\Action\centerServer\Center\bin\Debug\MySql.Data.dll
+C:\Users\HIRO\Minhas Ferramentas\Action\centerServer\Center\bin\Debug\Zlib.dll
+C:\Users\HIRO\Minhas Ferramentas\Action\centerServer\Center\bin\Debug\libcomservice.pdb
+C:\Users\HIRO\Minhas Ferramentas\Action\centerServer\Center\obj\x86\Debug\Center.csprojResolveAssemblyReference.cache
+C:\Grand Chase Ernas\Server Files\CenterServer\Center\bin\Debug\CenterServer.exe
+C:\Grand Chase Ernas\Server Files\CenterServer\Center\bin\Debug\CenterServer.pdb
+C:\Grand Chase Ernas\Server Files\CenterServer\Center\bin\Debug\libcomservice.dll
+C:\Grand Chase Ernas\Server Files\CenterServer\Center\bin\Debug\Zlib.dll
+C:\Grand Chase Ernas\Server Files\CenterServer\Center\bin\Debug\libcomservice.pdb
+C:\Grand Chase Ernas\Server Files\CenterServer\Center\obj\x86\Debug\Center.csprojResolveAssemblyReference.cache
+C:\Grand Chase Ernas\Server Files\CenterServer\Center\obj\x86\Debug\CenterServer.exe
+C:\Grand Chase Ernas\Server Files\CenterServer\Center\obj\x86\Debug\CenterServer.pdb
+D:\2018\Season v emulator\CenterServer\Center\bin\Debug\CenterServer.exe
+D:\2018\Season v emulator\CenterServer\Center\bin\Debug\CenterServer.pdb
+D:\2018\Season v emulator\CenterServer\Center\bin\Debug\libcomservice.dll
+D:\2018\Season v emulator\CenterServer\Center\bin\Debug\Zlib.dll
+D:\2018\Season v emulator\CenterServer\Center\bin\Debug\libcomservice.pdb
+D:\2018\Season v emulator\CenterServer\Center\obj\x86\Debug\Center.csprojResolveAssemblyReference.cache
+D:\2018\Season v emulator\CenterServer\Center\obj\x86\Debug\CenterServer.exe
+D:\2018\Season v emulator\CenterServer\Center\obj\x86\Debug\CenterServer.pdb

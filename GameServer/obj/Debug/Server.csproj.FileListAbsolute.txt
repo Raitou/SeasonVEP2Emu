@@ -1,0 +1,28 @@
+C:\Users\HIRO\Minhas Ferramentas\Action\centerServer\Server\bin\Debug\libcomservice.dll
+C:\Users\HIRO\Minhas Ferramentas\Action\centerServer\Server\bin\Debug\libcomservice.pdb
+C:\Users\HIRO\Minhas Ferramentas\Action\centerServer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\HIRO\Minhas Ferramentas\Action\centerServer\Server\obj\Debug\libcomservice.dll
+C:\Users\HIRO\Minhas Ferramentas\Action\centerServer\Server\obj\Debug\libcomservice.pdb
+C:\Grand Chase Ernas\Server Files\CenterServer MySQL\Server\bin\Debug\libcomservice.dll
+C:\Grand Chase Ernas\Server Files\CenterServer MySQL\Server\bin\Debug\libcomservice.pdb
+C:\Grand Chase Ernas\Server Files\CenterServer MySQL\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Grand Chase Ernas\Server Files\CenterServer MySQL\Server\obj\Debug\libcomservice.dll
+C:\Grand Chase Ernas\Server Files\CenterServer MySQL\Server\obj\Debug\libcomservice.pdb
+C:\Grand Chase Ernas\Server Files\GameServer\Server\bin\Debug\libcomservice.dll
+C:\Grand Chase Ernas\Server Files\GameServer\Server\bin\Debug\libcomservice.pdb
+C:\Grand Chase Ernas\Server Files\GameServer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Grand Chase Ernas\Server Files\GameServer\Server\obj\Debug\libcomservice.dll
+C:\Grand Chase Ernas\Server Files\GameServer\Server\obj\Debug\libcomservice.pdb
+E:\Users\Mavisson\server_files_s5\GameServer\Server\obj\Debug\libcomservice.dll
+E:\Users\Mavisson\server_files_s5\GameServer\Server\bin\Debug\libcomservice.dll
+E:\Users\Mavisson\server_files_s5\GameServer\Server\bin\Debug\libcomservice.pdb
+E:\Users\Mavisson\server_files_s5\GameServer\Server\obj\Debug\libcomservice.pdb
+E:\Users\Mavisson\server_files_s5\GameServer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Users\Mavisson\Desktop\server_files_s5\GameServer\Server\bin\Debug\libcomservice.dll
+D:\Users\Mavisson\Desktop\server_files_s5\GameServer\Server\bin\Debug\libcomservice.pdb
+D:\Users\Mavisson\Desktop\server_files_s5\GameServer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Users\Mavisson\Desktop\server_files_s5\GameServer\Server\obj\Debug\libcomservice.dll
+D:\Users\Mavisson\Desktop\server_files_s5\GameServer\Server\obj\Debug\libcomservice.pdb
+D:\2018\Season v emulator\GameServer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\2018\Season v emulator\GameServer\Server\obj\Debug\libcomservice.dll
+D:\2018\Season v emulator\GameServer\Server\obj\Debug\libcomservice.pdb

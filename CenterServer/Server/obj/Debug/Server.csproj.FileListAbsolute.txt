@@ -1,0 +1,5 @@
+D:\2018\Season v emulator\CenterServer\Server\bin\Debug\libcomservice.dll
+D:\2018\Season v emulator\CenterServer\Server\bin\Debug\libcomservice.pdb
+D:\2018\Season v emulator\CenterServer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\2018\Season v emulator\CenterServer\Server\obj\Debug\libcomservice.dll
+D:\2018\Season v emulator\CenterServer\Server\obj\Debug\libcomservice.pdb

@@ -1,0 +1,26 @@
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\bin\Release\Center.exe
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\bin\Release\Center.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\obj\x86\Release\Center.exe
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\obj\x86\Release\Center.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\obj\x86\Release\Center.csprojResolveAssemblyReference.cache
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\bin\Release\libcomservice.dll
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Center\bin\Release\libcomservice.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Bin\Center.exe
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Center\Bin\Center.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\CenterServer\Center\obj\x86\Release\CenterServer.exe
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\CenterServer\Center\obj\x86\Release\CenterServer.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\CenterServer\Bin\CenterServer.exe
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\CenterServer\Bin\CenterServer.pdb
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\CenterServer\Center\obj\x86\Release\Center.csprojResolveAssemblyReference.cache
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Debug\CenterServer.exe
+C:\Users\HIRO\Documents\GC\s2\Packets\Project\Debug\CenterServer.pdb
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\CenterServer\Center\obj\x86\Release\CenterServer.exe
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\CenterServer\Center\obj\x86\Release\CenterServer.pdb
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\Debug\CenterServer.exe
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\Debug\CenterServer.pdb
+C:\Users\HIRO\Minhas Ferramentas\Grand Chase Action\Project\CenterServer\Center\obj\x86\Release\Center.csprojResolveAssemblyReference.cache
+C:\Users\HIRO\Desktop\CenterServer\Center\obj\x86\Release\CenterServer.exe
+C:\Users\HIRO\Desktop\CenterServer\Center\obj\x86\Release\CenterServer.pdb
+C:\Users\HIRO\Desktop\Debug\CenterServer.exe
+C:\Users\HIRO\Desktop\Debug\CenterServer.pdb
+C:\Users\HIRO\Desktop\CenterServer\Center\obj\x86\Release\Center.csprojResolveAssemblyReference.cache

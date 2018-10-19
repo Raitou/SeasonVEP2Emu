@@ -1,0 +1,10 @@
+[ODBC]
+DRIVER=SQL Server
+LANGUAGE=Português
+DATABASE=gc
+WSID=KOG-JSEOP
+APP=Microsoft Data Access Components
+SERVER=HIRO-PC\RSQLEXPRESS
+Description=Internal
+UID=sa
+PWD=xr3ihg
